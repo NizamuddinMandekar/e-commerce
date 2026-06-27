@@ -14,7 +14,7 @@ export default function Footer() {
     <footer className="border-t border-line bg-cream-dark">
       <div className="container-page grid grid-cols-1 gap-10 py-16 md:grid-cols-2 lg:grid-cols-5">
         <div className="lg:col-span-2">
-          <Logo />
+          <Logo imageClassName="h-20 max-w-[220px]" />
           <p className="mt-4 max-w-sm text-sm text-ink-soft">
             Handcrafted traditional wear and fine jewelry, made in small batches by
             artisan partners across India. Designed for the moments worth dressing up for.
