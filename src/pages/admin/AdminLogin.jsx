@@ -34,8 +34,8 @@ export default function AdminLogin() {
         onSubmit={handleSubmit}
         className="w-full max-w-sm rounded-2xl border border-line bg-cream p-8 shadow-card"
       >
-        <div className="flex h-12 w-12 items-center justify-center rounded-full bg-cream-dark text-gold-dark">
-          <Lock size={20} />
+        <div className="flex items-center justify-center">
+          <img src="/logo.png" alt="ZiuWorld logo" className="h-14 w-auto object-contain" />
         </div>
         <h1 className="mt-4 font-display text-2xl font-medium text-ink">Admin Sign In</h1>
         <p className="mt-1 text-sm text-ink-soft">
