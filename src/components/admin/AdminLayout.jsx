@@ -23,7 +23,7 @@ export default function AdminLayout() {
     <div className="flex min-h-screen bg-cream-dark">
       <aside className="flex w-64 flex-shrink-0 flex-col border-r border-line bg-cream px-5 py-6">
         <Link to="/admin" className="flex items-center gap-2">
-          <img src={`${import.meta.env.BASE_URL}logo.png`} alt="ZiuWorld logo" className="h-10 w-auto object-contain" />
+          <img src={`${import.meta.env.BASE_URL}logo.png`} alt="ZiuWorld logo" className="h-14 w-auto object-contain" />
           <span className="text-[10px] font-semibold uppercase tracking-[0.12em] text-ink-soft">
             Admin
           </span>

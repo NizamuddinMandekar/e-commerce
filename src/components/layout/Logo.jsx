@@ -7,7 +7,7 @@ export default function Logo({ className }) {
       <img
         src={`${import.meta.env.BASE_URL}logo.png`}
         alt="ZiuWorld logo"
-        className="h-9 w-auto object-contain"
+        className="h-14 w-auto max-w-[180px] object-contain"
       />
     </Link>
   );
