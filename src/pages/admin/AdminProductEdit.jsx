@@ -309,7 +309,7 @@ export default function AdminProductEdit() {
                 <label className={labelClass}>Customers will see</label>
                 {discountPercent ? (
                   <p className="rounded-xl bg-cream px-4 py-2.5 text-sm font-semibold text-maroon">
-                    {discountPercent}% off — was ₹{Number(form.compareAtPrice).toLocaleString('en-IN')}
+                    {discountPercent}% off was ₹{Number(form.compareAtPrice).toLocaleString('en-IN')}
                   </p>
                 ) : (
                   <p className="rounded-xl bg-cream px-4 py-2.5 text-sm text-ink-soft">

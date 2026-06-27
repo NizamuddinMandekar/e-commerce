@@ -23,7 +23,7 @@ export default function Hero() {
             worn your way.
           </h1>
           <p className="max-w-md text-balance text-base text-ink-soft">
-            Handwoven sarees, embroidered lehengas and fine, handcrafted jewelry —
+            Handwoven sarees, embroidered lehengas and fine, handcrafted jewelry  
             made in small batches with artisan partners across India.
           </p>
           <div className="flex flex-wrap items-center gap-4 pt-2">
