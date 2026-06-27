@@ -1,0 +1,42 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 scripts/search.py \"luxury e-commerce traditional ethnic women fashion fine jewelry handmade elegant\" --design-system -p \"ZiuWorld\" -f markdown)",
+      "Bash(where python *)",
+      "Bash(where python3 *)",
+      "Bash(py --version)",
+      "Bash(\"C:\\\\Python314\\\\python.exe\" scripts/search.py \"luxury e-commerce traditional ethnic women fashion fine jewelry handmade elegant\" --design-system -p \"ZiuWorld\" -f markdown)",
+      "Bash(\"C:\\\\Python314\\\\python.exe\" scripts/search.py \"ecommerce hero product showcase fashion\" --domain landing -n 5)",
+      "Bash(npm --version)",
+      "Bash(npm create *)",
+      "Bash(npm install *)",
+      "Bash(npm ls *)",
+      "Bash(rm -f assets/react.svg assets/hero.png)",
+      "Bash(mkdir -p components/layout components/ui components/product components/home components/checkout)",
+      "Bash(mkdir -p pages)",
+      "Bash(mkdir -p data)",
+      "Bash(mkdir -p store)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" \"https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=600&q=80\" --max-time 10)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" \"https://images.pexels.com/photos/691046/pexels-photo-691046.jpeg?w=600\" --max-time 10)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" \"https://placehold.co/600x750/f5efe6/8a7d6f?text=Test\" --max-time 10)",
+      "WebFetch(domain:unsplash.com)",
+      "mcp__magic__21st_magic_component_builder",
+      "Skill(run)",
+      "Bash(chromium-cli --help)",
+      "Bash(npx --yes playwright --version)",
+      "Read(//c/Users/Nizam/AppData/Local/ms-playwright/**)",
+      "Bash(npm config *)",
+      "Bash(curl -s http://localhost:5178)",
+      "Bash(node \"C:\\\\Users\\\\Nizam\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-Nizam-Desktop-Nizam-Projects-ClaudeVibeCoding-e-commerce\\\\5fbb2326-1a9d-4113-98cd-596f2d06030a\\\\scratchpad\\\\verify.mjs\")",
+      "Bash(cp \"C:\\\\Users\\\\Nizam\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--Users-Nizam-Desktop-Nizam-Projects-ClaudeVibeCoding-e-commerce\\\\5fbb2326-1a9d-4113-98cd-596f2d06030a\\\\scratchpad\\\\verify.mjs\" \"C:\\\\Users\\\\Nizam\\\\Desktop\\\\Nizam Projects\\\\ClaudeVibeCoding\\\\e-commerce\\\\verify.mjs\")",
+      "Bash(node verify.mjs)",
+      "Bash(node verify2.mjs)",
+      "Bash(rm -f verify.mjs verify2.mjs)",
+      "Bash(npm uninstall *)",
+      "Bash(taskkill //F //IM node.exe //FI \"WINDOWTITLE eq*vite*\")",
+      "Bash(netstat -ano)",
+      "Bash(taskkill *)",
+      "Bash(node verify-admin.mjs)"
+    ]
+  }
+}
